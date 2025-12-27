@@ -30,3 +30,6 @@ artifacts/
 
 # VS Code
 .vscode/
+
+# CatBoost artifacts
+catboost_info/
