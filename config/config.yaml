@@ -1,0 +1,9 @@
+default:
+  raw_data_path: "data/raw/students.csv"
+  processed_train_path: "artifacts/processed/train.csv"
+  processed_test_path: "artifacts/processed/test.csv"
+  random_state: 42
+  test_size: 0.2
+  model_dir: "artifacts/models"
+  metrics_dir: "artifacts/metrics"
+  target_col: "math_score"
